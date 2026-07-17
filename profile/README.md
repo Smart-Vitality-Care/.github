@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/svclight.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/svcdark.svg">
-    <img src="assets/svcdark.svg" alt="SVC Logo" width="220">
-  </picture>
-</p>
-
 <h1 align="center">Smart Vitality Care</h1>
 
 <p align="center">
@@ -31,5 +23,5 @@
 <br>
 
 <p align="center">
-  <img src="assets/wp.jpg" alt="Smart Vitality Care" width="100%">
+  <img src="assets/SVC_Website-Grafik-Header_tuerkis_hero_image_m.jpg" alt="Smart Vitality Care" width="100%">
 </p>
